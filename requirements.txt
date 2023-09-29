@@ -1,0 +1,10 @@
+#required dependencies for medbot
+    accelerate
+    bitsandbytes
+    chainlit
+    faiss_cpu
+    langchain
+    pypdf
+    sentence_transformers
+    torch
+    transformers
